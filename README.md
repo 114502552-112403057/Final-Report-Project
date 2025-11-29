@@ -33,7 +33,7 @@
 | 組員 | 貢獻目標 | PR 標題與連結 |
 | :--- | :--- | :--- |
 | **翁子軒 (112403057)** | 撰寫新手指南（Beginner Guide）| [Add Beginners Guide for new users #65](https://github.com/yt-dlp/yt-dlp-wiki/pull/65) |
-| **賴泉宏 (114502552)** | FAQ 錯字與文法修正 | [FAQ] Fix typos #66 |
+| **賴泉宏 (114502552)** | FAQ 錯字與文法修正 | https://github.com/yt-dlp/yt-dlp-wiki/pull/66 |
 
 > 詳細的**執行步驟、貢獻過程中的正/負面行為記錄，以及維護者互動細節**，請參閱完整報告。
 
